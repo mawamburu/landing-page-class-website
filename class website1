@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>CLASS WEBSITE</title>
+    </head>
+    <body>
+        <h1>CLASS WEBSITE</h1>
+        <h2>introduction</h2>
+        <P>welcome to class website.This website will help learners find their way through the topics discussions, 
+            announcements, the notes, attendance results, timetable, library and units. 
+        </P>
+        <h1>FEATURES</h1>
+        <h2>discussions</h2>
+        <h2>announcements</h2>
+        <h2>notes</h2>
+        <h2>attendance</h2>
+        <h2>results</h2>
+        <h2>timetable</h2>
+        <h2>library</h2>
+        <h2>units</h2>
+        <br>
+        <img src="istockphoto-1396208402-1024x1024" border="10">
+
+    </body>
+
+</html
